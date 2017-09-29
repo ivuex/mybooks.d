@@ -1,0 +1,8 @@
+body, html { background: rgb(255, 255, 255) none repeat scroll 0% 0%; font-family: "Bitstream Vera Sans","Lucida Grande","Lucida Sans Unicode",Lucidux,Verdana,Lucida,sans-serif;  }
+tr:nth-child(2n) { background: rgb(244, 244, 244) none repeat scroll 0% 0%;  }
+th, td { padding: 0.1em 0.5em;  }
+th { text-align: left; font-weight: bold; background: rgb(238, 238, 238) none repeat scroll 0% 0%; border-bottom: 1px solid rgb(170, 170, 170);  }
+#list { border: 1px solid rgb(170, 170, 170); width: 100%;  }
+a { color: rgb(170, 51, 51);  }
+a:hover { color: rgb(238, 51, 51);  }
+
